@@ -16,8 +16,8 @@
         <mxCell id="HlNwj79HeZ5O_ntNXDrh-6" value="Wwise Position" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="315" y="522" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HlNwj79HeZ5O_ntNXDrh-7" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="491" y="522" width="110" height="50" as="geometry" />
+        <mxCell id="HlNwj79HeZ5O_ntNXDrh-7" value="Wwise RTPC" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="466" y="522" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
