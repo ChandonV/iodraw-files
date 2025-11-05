@@ -10,14 +10,14 @@
         <mxCell id="HlNwj79HeZ5O_ntNXDrh-2" value="-PendingEvents" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="HlNwj79HeZ5O_ntNXDrh-1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HlNwj79HeZ5O_ntNXDrh-5" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HlNwj79HeZ5O_ntNXDrh-5" value="Wwise Event" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="128" y="522" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HlNwj79HeZ5O_ntNXDrh-6" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="315" y="522" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HlNwj79HeZ5O_ntNXDrh-7" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="502" y="527" width="110" height="50" as="geometry" />
+          <mxGeometry x="491" y="522" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
