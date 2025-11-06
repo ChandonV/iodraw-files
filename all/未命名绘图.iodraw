@@ -1,23 +1,26 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2466" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="wBn-xEAzr4GtA6RbORBA-0" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;每次构建都执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-369" y="-37" width="344" height="60" as="geometry" />
+          <mxGeometry x="-90" y="-26" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBn-xEAzr4GtA6RbORBA-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;定时执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-369" y="98" width="344" height="60" as="geometry" />
+          <mxGeometry x="-90" y="109" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBn-xEAzr4GtA6RbORBA-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;手动执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-373" y="233" width="344" height="60" as="geometry" />
+          <mxGeometry x="-94" y="244" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBn-xEAzr4GtA6RbORBA-3" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;检测日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="59" y="98" width="344" height="60" as="geometry" />
+          <mxGeometry x="338" y="109" width="344" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBn-xEAzr4GtA6RbORBA-4" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;上传日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487" y="100" width="344" height="60" as="geometry" />
+          <mxGeometry x="766" y="111" width="344" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wBn-xEAzr4GtA6RbORBA-5" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;检测日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-518" y="111" width="344" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
