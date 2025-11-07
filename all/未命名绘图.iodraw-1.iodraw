@@ -13,8 +13,8 @@
         <mxCell id="HlNwj79HeZ5O_ntNXDrh-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;+ FARFilter Filter&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="535" width="215" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HlNwj79HeZ5O_ntNXDrh-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;TArray&amp;lt;FAssetData&amp;gt; AssetList&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81" y="596" width="143" height="26" as="geometry" />
+        <mxCell id="HlNwj79HeZ5O_ntNXDrh-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;+TArray&amp;lt;FAssetData&amp;gt;&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="596" width="207" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
